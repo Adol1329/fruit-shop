@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "email": "admin@freshpick.com",
+      "password": "$2a$10$N9qo8uLOickgx2ZMRZoMy.MH9x2zfKZ2Xl8XKQ7wM/GvR4r0W5f6K",
+      "fullName": "Admin User",
+      "isAdmin": true,
+      "address": "123 Admin St, Tech City",
+      "phone": "+1234567890",
+      "createdAt": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": 2,
+      "username": "john_doe",
+      "email": "john@example.com",
+      "password": "$2a$10$N9qo8uLOickgx2ZMRZoMy.MH9x2zfKZ2Xl8XKQ7wM/GvR4r0W5f6K",
+      "fullName": "John Doe",
+      "isAdmin": false,
+      "address": "456 User Ave, Customer Town",
+      "phone": "+1987654321",
+      "createdAt": "2025-02-15T10:30:00Z"
+    }
+  ],
+  "orders": [],
+  "carts": {}
+}

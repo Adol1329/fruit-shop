@@ -1,0 +1,70 @@
+{
+  "fruits": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "price": 2.5,
+      "unit": "kg",
+      "category": "Fruits",
+      "image": "/images/fruits/apple.jpg",
+      "description": "Fresh and crispy apples, perfect for snacking.",
+      "inStock": true,
+      "rating": 4.5,
+      "reviews": 128
+    },
+    {
+      "id": 2,
+      "name": "Banana",
+      "price": 1.5,
+      "unit": "bunch",
+      "category": "Fruits",
+      "image": "/images/fruits/banana.jpg",
+      "description": "Sweet and nutritious bananas, great for energy.",
+      "inStock": true,
+      "rating": 4.7,
+      "reviews": 215
+    },
+    {
+      "id": 3,
+      "name": "Orange",
+      "price": 3.0,
+      "unit": "kg",
+      "category": "Citrus",
+      "image": "/images/fruits/orange.jpg",
+      "description": "Juicy oranges packed with vitamin C.",
+      "inStock": true,
+      "rating": 4.6,
+      "reviews": 178
+    },
+    {
+      "id": 4,
+      "name": "Mango",
+      "price": 4.0,
+      "unit": "piece",
+      "category": "Tropical",
+      "image": "/images/fruits/mango.jpg",
+      "description": "Sweet and delicious mangoes, the king of fruits.",
+      "inStock": true,
+      "rating": 4.8,
+      "reviews": 342
+    },
+    {
+      "id": 5,
+      "name": "Grapes",
+      "price": 2.8,
+      "unit": "kg",
+      "category": "Berries",
+      "image": "/images/fruits/grapes.jpg",
+      "description": "Sweet seedless grapes, perfect for snacking.",
+      "inStock": true,
+      "rating": 4.4,
+      "reviews": 95
+    }
+  ],
+  "categories": [
+    {"id": 1, "name": "Fruits", "slug": "fruits"},
+    {"id": 2, "name": "Citrus", "slug": "citrus"},
+    {"id": 3, "name": "Tropical", "slug": "tropical"},
+    {"id": 4, "name": "Berries", "slug": "berries"}
+  ]
+}
