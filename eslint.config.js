@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 import js from '@eslint/js';
 import globals from 'globals';
 import reactHooks from 'eslint-plugin-react-hooks';
@@ -28,6 +29,8 @@ export default tseslint.config(
   }
 );
 =======
+=======
+>>>>>>> 13ac6ef (first commit)
 import js from '@eslint/js'
 import globals from 'globals'
 import reactHooks from 'eslint-plugin-react-hooks'
@@ -57,4 +60,7 @@ export default defineConfig([
     },
   },
 ])
+<<<<<<< HEAD
 >>>>>>> d4a2259c8eb1f43b0ddc84b180a299d373b696ba
+=======
+>>>>>>> 13ac6ef (first commit)

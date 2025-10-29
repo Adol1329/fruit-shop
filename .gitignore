@@ -7,6 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
 
+<<<<<<< HEAD
 # Dependencies
 node_modules
 .pnp
@@ -23,6 +24,12 @@ dist-ssr
 .env.development.local
 .env.test.local
 .env.production.local
+=======
+node_modules
+dist
+dist-ssr
+*.local
+>>>>>>> 13ac6ef (first commit)
 
 # Editor directories and files
 .vscode/*
@@ -34,6 +41,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 
 # Testing
 coverage
@@ -41,3 +49,5 @@ coverage
 
 # Debug logs
 debug.log
+=======
+>>>>>>> 13ac6ef (first commit)
